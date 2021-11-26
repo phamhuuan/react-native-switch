@@ -1,4 +1,4 @@
-declare module 'react-native-switch' {
+declare module '@phamhuuan/react-native-switch' {
   import { Component, ReactNode } from 'react';
   import { StyleProp, TextStyle, ViewStyle } from 'react-native';
 
